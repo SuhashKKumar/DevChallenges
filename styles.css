@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Sora', sans-serif;
+  color: black;
+  background-color: #fafaf9;
+}
+main {
+  margin: 10.25rem auto 0 auto;
+  max-width: 21rem;
+  background-color: #fff;
+  padding: 1em;
+  border-radius: 1em;
+}
+img {
+  max-width: 100%;
+  border-radius: 1em;
+}
+
+button {
+  background-color: #e6d6fc;
+  color: #883ae1;
+  border: none;
+  padding: 0.4em 1em;
+  border-radius: 1em;
+  margin: 1em 0;
+  font-size: 0.625rem;
+}
+h1 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  /* margin: 0 0 0.4em 0; */
+}
+p {
+  font-size: 0.875rem;
+  color: #6c727f;
+  margin-top: 0.4em;
+  font-weight: 200;
+}
+h6 {
+  font-weight: 300;
+  font-size: 0.75rem;
+  color: #6c727f;
+  margin: 1.2em 0 0.2em 0;
+}
